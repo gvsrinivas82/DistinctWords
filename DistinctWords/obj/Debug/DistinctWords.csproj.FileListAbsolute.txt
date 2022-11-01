@@ -1,0 +1,8 @@
+C:\GV\Technical_Practice\DistinctWords\DistinctWords\bin\Debug\DistinctWords.exe.config
+C:\GV\Technical_Practice\DistinctWords\DistinctWords\bin\Debug\DistinctWords.exe
+C:\GV\Technical_Practice\DistinctWords\DistinctWords\bin\Debug\DistinctWords.pdb
+C:\GV\Technical_Practice\DistinctWords\DistinctWords\obj\Debug\DistinctWords.csproj.AssemblyReference.cache
+C:\GV\Technical_Practice\DistinctWords\DistinctWords\obj\Debug\DistinctWords.csproj.SuggestedBindingRedirects.cache
+C:\GV\Technical_Practice\DistinctWords\DistinctWords\obj\Debug\DistinctWords.csproj.CoreCompileInputs.cache
+C:\GV\Technical_Practice\DistinctWords\DistinctWords\obj\Debug\DistinctWords.exe
+C:\GV\Technical_Practice\DistinctWords\DistinctWords\obj\Debug\DistinctWords.pdb
